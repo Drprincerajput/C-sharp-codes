@@ -1,0 +1,13 @@
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.exe
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.deps.json
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.runtimeconfig.json
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.runtimeconfig.dev.json
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.dll
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\bin\Debug\netcoreapp3.1\Hello_App.pdb
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.csprojAssemblyReference.cache
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.AssemblyInfoInputs.cache
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.AssemblyInfo.cs
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.csproj.CoreCompileInputs.cache
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.dll
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.pdb
+H:\Code\tutorial\C#-net-core\Hello_App\Hello_App\obj\Debug\netcoreapp3.1\Hello_App.genruntimeconfig.cache
